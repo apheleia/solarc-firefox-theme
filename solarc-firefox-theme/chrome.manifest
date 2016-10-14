@@ -1,0 +1,4 @@
+skin    browser         solarc-theme   chrome/browser/
+skin    communicator    solarc-theme   chrome/communicator/
+skin    global          solarc-theme   chrome/global/
+skin    mozapps         solarc-theme   chrome/mozapps/
